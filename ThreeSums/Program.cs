@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using ThreeSums;
 
-var ints = In.ReadInts("./data/1Kints.txt").ToArray();
+var ints = In.ReadInts("1Kints.txt").ToArray();
 var watch = new Stopwatch();
 watch.Start();
 
